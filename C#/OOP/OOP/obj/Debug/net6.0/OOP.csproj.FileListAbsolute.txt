@@ -1,0 +1,15 @@
+D:\Dot Net\C#\OOP\OOP\bin\Debug\net6.0\OOP.exe
+D:\Dot Net\C#\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+D:\Dot Net\C#\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+D:\Dot Net\C#\OOP\OOP\bin\Debug\net6.0\OOP.dll
+D:\Dot Net\C#\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\OOP.dll
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+D:\Dot Net\C#\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll

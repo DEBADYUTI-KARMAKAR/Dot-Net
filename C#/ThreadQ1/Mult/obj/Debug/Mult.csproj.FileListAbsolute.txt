@@ -1,0 +1,8 @@
+D:\Dot Net\C#\ThreadQ1\Mult\bin\Debug\Mult.exe.config
+D:\Dot Net\C#\ThreadQ1\Mult\bin\Debug\Mult.exe
+D:\Dot Net\C#\ThreadQ1\Mult\bin\Debug\Mult.pdb
+D:\Dot Net\C#\ThreadQ1\Mult\obj\Debug\Mult.csproj.AssemblyReference.cache
+D:\Dot Net\C#\ThreadQ1\Mult\obj\Debug\Mult.csproj.SuggestedBindingRedirects.cache
+D:\Dot Net\C#\ThreadQ1\Mult\obj\Debug\Mult.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\ThreadQ1\Mult\obj\Debug\Mult.exe
+D:\Dot Net\C#\ThreadQ1\Mult\obj\Debug\Mult.pdb

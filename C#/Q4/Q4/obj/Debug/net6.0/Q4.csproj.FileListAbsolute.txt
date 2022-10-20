@@ -1,0 +1,15 @@
+D:\Dot Net\C#\Q4\Q4\bin\Debug\net6.0\Q4.exe
+D:\Dot Net\C#\Q4\Q4\bin\Debug\net6.0\Q4.deps.json
+D:\Dot Net\C#\Q4\Q4\bin\Debug\net6.0\Q4.runtimeconfig.json
+D:\Dot Net\C#\Q4\Q4\bin\Debug\net6.0\Q4.dll
+D:\Dot Net\C#\Q4\Q4\bin\Debug\net6.0\Q4.pdb
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\Q4.csproj.AssemblyReference.cache
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\Q4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\Q4.AssemblyInfoInputs.cache
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\Q4.AssemblyInfo.cs
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\Q4.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\Q4.dll
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\refint\Q4.dll
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\Q4.pdb
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\Q4.genruntimeconfig.cache
+D:\Dot Net\C#\Q4\Q4\obj\Debug\net6.0\ref\Q4.dll

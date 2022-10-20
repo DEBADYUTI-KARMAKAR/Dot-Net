@@ -1,0 +1,15 @@
+D:\Dot Net\C#\BasicCode\BasicCode\bin\Debug\net6.0\BasicCode.exe
+D:\Dot Net\C#\BasicCode\BasicCode\bin\Debug\net6.0\BasicCode.deps.json
+D:\Dot Net\C#\BasicCode\BasicCode\bin\Debug\net6.0\BasicCode.runtimeconfig.json
+D:\Dot Net\C#\BasicCode\BasicCode\bin\Debug\net6.0\BasicCode.dll
+D:\Dot Net\C#\BasicCode\BasicCode\bin\Debug\net6.0\BasicCode.pdb
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\BasicCode.csproj.AssemblyReference.cache
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\BasicCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\BasicCode.AssemblyInfoInputs.cache
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\BasicCode.AssemblyInfo.cs
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\BasicCode.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\BasicCode.dll
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\refint\BasicCode.dll
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\BasicCode.pdb
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\BasicCode.genruntimeconfig.cache
+D:\Dot Net\C#\BasicCode\BasicCode\obj\Debug\net6.0\ref\BasicCode.dll

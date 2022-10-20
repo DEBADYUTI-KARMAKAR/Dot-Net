@@ -1,0 +1,15 @@
+D:\Dot Net\C#\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.exe
+D:\Dot Net\C#\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.deps.json
+D:\Dot Net\C#\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.runtimeconfig.json
+D:\Dot Net\C#\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.dll
+D:\Dot Net\C#\ControlStatement\ControlStatement\bin\Debug\net6.0\ControlStatement.pdb
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.csproj.AssemblyReference.cache
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.AssemblyInfoInputs.cache
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.AssemblyInfo.cs
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.dll
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\refint\ControlStatement.dll
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.pdb
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ControlStatement.genruntimeconfig.cache
+D:\Dot Net\C#\ControlStatement\ControlStatement\obj\Debug\net6.0\ref\ControlStatement.dll

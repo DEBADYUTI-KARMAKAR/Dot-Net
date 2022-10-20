@@ -1,0 +1,8 @@
+D:\Dot Net\C#\ThreadQ1\ThreadQ1\bin\Debug\ThreadQ1.exe.config
+D:\Dot Net\C#\ThreadQ1\ThreadQ1\bin\Debug\ThreadQ1.exe
+D:\Dot Net\C#\ThreadQ1\ThreadQ1\bin\Debug\ThreadQ1.pdb
+D:\Dot Net\C#\ThreadQ1\ThreadQ1\obj\Debug\ThreadQ1.csproj.AssemblyReference.cache
+D:\Dot Net\C#\ThreadQ1\ThreadQ1\obj\Debug\ThreadQ1.csproj.SuggestedBindingRedirects.cache
+D:\Dot Net\C#\ThreadQ1\ThreadQ1\obj\Debug\ThreadQ1.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\ThreadQ1\ThreadQ1\obj\Debug\ThreadQ1.exe
+D:\Dot Net\C#\ThreadQ1\ThreadQ1\obj\Debug\ThreadQ1.pdb

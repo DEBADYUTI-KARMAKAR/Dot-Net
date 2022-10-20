@@ -1,0 +1,15 @@
+D:\Dot Net\C#\String\String\bin\Debug\net6.0\String.exe
+D:\Dot Net\C#\String\String\bin\Debug\net6.0\String.deps.json
+D:\Dot Net\C#\String\String\bin\Debug\net6.0\String.runtimeconfig.json
+D:\Dot Net\C#\String\String\bin\Debug\net6.0\String.dll
+D:\Dot Net\C#\String\String\bin\Debug\net6.0\String.pdb
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\String.dll
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\refint\String.dll
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\String.pdb
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+D:\Dot Net\C#\String\String\obj\Debug\net6.0\ref\String.dll
