@@ -1,0 +1,8 @@
+D:\Dot Net\C#\Mini_Project_One\OwnException\bin\Debug\OwnException.exe.config
+D:\Dot Net\C#\Mini_Project_One\OwnException\bin\Debug\OwnException.exe
+D:\Dot Net\C#\Mini_Project_One\OwnException\bin\Debug\OwnException.pdb
+D:\Dot Net\C#\Mini_Project_One\OwnException\obj\Debug\OwnException.csproj.AssemblyReference.cache
+D:\Dot Net\C#\Mini_Project_One\OwnException\obj\Debug\OwnException.csproj.SuggestedBindingRedirects.cache
+D:\Dot Net\C#\Mini_Project_One\OwnException\obj\Debug\OwnException.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\Mini_Project_One\OwnException\obj\Debug\OwnException.exe
+D:\Dot Net\C#\Mini_Project_One\OwnException\obj\Debug\OwnException.pdb
