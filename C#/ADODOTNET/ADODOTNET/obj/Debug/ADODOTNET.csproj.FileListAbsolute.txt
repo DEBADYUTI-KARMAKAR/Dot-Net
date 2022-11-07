@@ -1,0 +1,8 @@
+D:\Dot Net\C#\ADODOTNET\ADODOTNET\bin\Debug\ADODOTNET.exe.config
+D:\Dot Net\C#\ADODOTNET\ADODOTNET\bin\Debug\ADODOTNET.exe
+D:\Dot Net\C#\ADODOTNET\ADODOTNET\bin\Debug\ADODOTNET.pdb
+D:\Dot Net\C#\ADODOTNET\ADODOTNET\obj\Debug\ADODOTNET.csproj.AssemblyReference.cache
+D:\Dot Net\C#\ADODOTNET\ADODOTNET\obj\Debug\ADODOTNET.csproj.SuggestedBindingRedirects.cache
+D:\Dot Net\C#\ADODOTNET\ADODOTNET\obj\Debug\ADODOTNET.csproj.CoreCompileInputs.cache
+D:\Dot Net\C#\ADODOTNET\ADODOTNET\obj\Debug\ADODOTNET.exe
+D:\Dot Net\C#\ADODOTNET\ADODOTNET\obj\Debug\ADODOTNET.pdb
