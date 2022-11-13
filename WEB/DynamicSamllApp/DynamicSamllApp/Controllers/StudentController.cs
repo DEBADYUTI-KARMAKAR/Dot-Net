@@ -1,13 +1,18 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DynamicSamllApp.Models;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace DynamicSamllApp.Controllers
 {
     public class StudentController : Controller
     {
-        public IActionResult Showstudent(String name,int id)
+        public IActionResult Showstudent(String sname,int sid)
         {
+            Student st = new Student();
+            st.StudentName = sname;
+            st.StudentId = sid;
             
-            return View();
+            return View(st);
         }
         public IActionResult GetStudent()
         {
