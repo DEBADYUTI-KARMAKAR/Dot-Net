@@ -1,0 +1,73 @@
+﻿@model CarBuy.Models.Card
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Card</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label"></label>
+                <input asp-for="ImageFile" accept="image/*" />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Car_no" class="control-label"></label>
+                <input asp-for="Car_no" class="form-control" />
+                <span asp-validation-for="Car_no" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Model_Name" class="control-label"></label>
+                <input asp-for="Model_Name" class="form-control" />
+                <span asp-validation-for="Model_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Car_age" class="control-label"></label>
+                <input asp-for="Car_age" class="form-control" />
+                <span asp-validation-for="Car_age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Car_base_price" class="control-label"></label>
+                <input asp-for="Car_base_price" class="form-control" />
+                <span asp-validation-for="Car_base_price" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="Car_insurence_price" class="control-label"></label>
+                <input asp-for="Car_insurence_price" class="form-control" disabled />
+                <span asp-validation-for="Car_insurence_price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Car_tax" class="control-label"></label>
+                <input asp-for="Car_tax" class="form-control" disabled/>
+                <span asp-validation-for="Car_tax" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Car_ins" class="control-label"></label>
+                <input asp-for="Car_ins" class="form-control" disabled/>
+                <span asp-validation-for="Car_ins" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Selling_price" class="control-label"></label>
+                <input asp-for="Selling_price" class="form-control" disabled/>
+                <span asp-validation-for="Selling_price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

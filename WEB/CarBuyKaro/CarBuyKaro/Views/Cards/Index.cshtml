@@ -1,0 +1,82 @@
+﻿@model IEnumerable<CarBuyKaro.Models.Card>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center fs-1">Choose Your Fevourite Car</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                IMG
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car_no)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car_age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car_base_price)
+            </th>
+            <th>
+                Insurence Premium
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car_tax)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Car_ins)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Selling_price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <img src="@("~/image/"+item.Image_Path)" asp-append-version="true" width="50" height="50">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Car_no)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Car_age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Car_base_price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Car_insurence_price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Car_tax)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Car_ins)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Selling_price)
+            </td>
+            <td>
+                    <a asp-action="Edit" type="button" class="btn btn-primary"  asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" type="button" class="btn btn-info" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" type="button" class="btn btn-danger" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
