@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JWTTokenWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:JWTTokenWebAPI.Controllers.AuthenticationController.CreateToken(JWTTokenWebAPI.Controllers.UserCredentials)">
+            <summary>
+            Generate Token for Authorization
+            </summary>
+        </member>
+        <member name="T:JWTTokenWebAPI.Controllers.UserCredentialsController">
+            <summary>
+            This Section is for Admin
+            </summary>
+        </member>
+        <member name="M:JWTTokenWebAPI.Controllers.UserCredentialsController.GetUserCredentials">
+            <summary>
+            Only Authorized Users can View Details
+            </summary>
+        </member>
+    </members>
+</doc>
