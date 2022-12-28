@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SampleAPIProject</name>
+    </assembly>
+    <members>
+        <member name="M:SampleAPIProject.Controllers.UserController.Authenticate(SampleAPIProject.UserCred)">
+            This code is generating JWT Token using username and password input
+        </member>
+    </members>
+</doc>
