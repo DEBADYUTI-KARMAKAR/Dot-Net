@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WBWalks.Data;
 
@@ -11,9 +12,11 @@ using WBWalks.Data;
 namespace WBWalks.Migrations
 {
     [DbContext(typeof(WBWalksDbContext))]
-    partial class WBWalksDbContextModelSnapshot : ModelSnapshot
+    [Migration("20221231080320_InitialMigration")]
+    partial class InitialMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

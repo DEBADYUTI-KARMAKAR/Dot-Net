@@ -12,7 +12,7 @@ namespace WBWalks.Data
 
         public DbSet<Region> Regions { get; set; }
         public DbSet<Walk> Walks { get; set; }
-        public DbSet<WalkDifficulity> WalkDifficulities{ get; set;}
+        public DbSet<WalkDifficulty> WalkDifficulty { get; set;}
 
     }
 }
