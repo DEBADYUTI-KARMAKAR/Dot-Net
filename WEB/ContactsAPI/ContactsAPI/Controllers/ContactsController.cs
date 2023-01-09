@@ -39,6 +39,11 @@ namespace ContactsAPI.Controllers
         [HttpPost]
         public async Task<IActionResult> AddContact(AddContactRequest addContactRequest)
         {
+
+            // validate the request
+
+
+            //Requist to domain model
             var contact = new Contact()
             {
                 Id = Guid.NewGuid(),
@@ -91,6 +96,20 @@ namespace ContactsAPI.Controllers
 
             return NotFound();
         }
+
+        #region Private methods
+        private void ValidateAddContact(AddContactRequest addContactRequest)
+        {
+            if (string.IsNullOrWhiteSpace(addContactRequest.OwnerName))
+            {
+                ModelState.AddModelError(nameof(addContactRequest.OwnerName),
+                    $"{nameof(addContactRequest.OwnerName)} cannot be null or empty or white space");
+            }
+        }
+        #endregion
+
     }
+
+
 
 }
